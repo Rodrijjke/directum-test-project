@@ -1,0 +1,9 @@
+[submodule "form-generator"]
+	path = form-generator
+	url = https://github.com/Rodrijjke/form-generator.git
+[submodule "event-page-layout"]
+	path = event-page-layout
+	url = https://github.com/Rodrijjke/event-page-layout.git
+[submodule "string-localization"]
+	path = string-localization
+	url = https://github.com/Rodrijjke/string-localization.git
